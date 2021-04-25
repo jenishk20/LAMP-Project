@@ -4,6 +4,6 @@
 
 
  ### 
- Contributors: 18BCE089 - Pranav Kansagra
-               18BCE096 - Jenish Kothari
+ Contributors: 18BCE089 - Pranav Kansagra ,
+               18BCE096 - Jenish Kothari ,
                18BCE097 - Gaurang Kothiya
